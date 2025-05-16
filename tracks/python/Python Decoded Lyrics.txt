@@ -1,0 +1,43 @@
+Intro
+	•	“Fake cache” = People acting important now, but they weren’t part of the real work. A “cache” is temporary storage—this clout is fake and fleeting.
+	•	“Fork my path” / “syntax clash” = They tried to copy or split off from my journey, but we didn’t vibe. In coding, a fork is a split, and a syntax clash means we don’t work together.
+
+Verse 1
+	•	@decorator / recursion = They’re nice on the surface (decorator = a wrapper in code), but shady when things go deep (recursion = repeated inner calls).
+	•	“Break on each version” = They act like they’re with you, but can’t handle changes—like software that crashes after updates.
+	•	“Missing the module” = You’re trying to show love, but you don’t even have the piece required to do that.
+	•	“Raise exceptions” = I had to call out the BS—like throwing a red flag in code when something’s wrong.
+	•	“Threaded up” vs “loops” = I run smooth and multitask (threads); they’re stuck doing the same indecisive thing (loops).
+
+Pre-Chorus
+	•	“Try block / catch the fall” = In code, try blocks catch errors. They didn’t catch me when things got bad.
+	•	“Class too small” = A diss. In code, a class defines behavior. This person lacked depth or structure.
+	•	“Tuple in disguise” = A tuple holds multiple things. Their lies were bundled and hidden well.
+	•	“Print” = In code, print() shows what’s really happening. I saw the truth.
+
+Chorus
+	•	“Code in Python” = Playing on both being a coder and surviving around “snakes” (betrayers).
+	•	“stderr” = Standard error output—usually red flags or warnings. I saw them.
+	•	“Let you run” = Even though I knew better, I still let things play out—like letting buggy code execute.
+
+Verse 2
+	•	“def loyalty()” / “fail the test” = I defined what loyalty looks like. You failed.
+	•	“del() the bond” = In code, del deletes. I cut ties completely.
+	•	“Assert my path” = I stand firm. In code, assert checks if something is true—if not, it crashes.
+	•	“while True loop” = You’re stuck in fake behavior that never ends, like an endless loop.
+	•	“Static vs dynamic” = You pretended to be stable (static), but kept changing up (dynamic).
+	•	“Blacklist longer than Git commits” = I keep receipts. Git tracks every code change—my block list is longer.
+	•	“snake.charmer()” = You played the manipulator. I didn’t see the script you were running.
+	•	“NoneType” = I looked into you and saw nothing. In Python, None = empty.
+	•	“Doesn’t compile” = Your whole vibe doesn’t work. Like code that can’t even run.
+	•	“ValueError” = You said you were ride-or-die, but gave the wrong kind of love—like bad input that breaks the code.
+	•	“Clone the repo / not open-source” = You can’t copy me. My soul isn’t for public access.
+	•	“pip install the drip” = You can steal the look (pip = install tool), but not the journey.
+	•	“venv” = I built myself in isolation. “venv” is a virtual environment where code runs alone.
+	•	“chmod +x” = In Unix systems, this gives permission to run something. Now, I only give trust if you earn it.
+
+Bridge
+	•	“Shed that skin” = I’ve moved on. Like a snake shedding dead weight.
+	•	“No bugs” = I’ve cleaned up. No flaws. Only real ones around.
+	•	“Boolean strong” = In coding, Boolean is true or false. I stay true. You were false.
+	•	“LoyaltyError” = I wrote my own rule: if you move funny, I shut it down immediately.
