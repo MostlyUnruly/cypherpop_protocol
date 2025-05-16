@@ -36,3 +36,25 @@
 ### Notes
 This patch marks a milestone — the protocol’s first official track release and onboarding system.  
 While no breaking changes were made to metadata schema, this version formalizes contributor flow and track registration standards.
+
+---
+
+## \[v1.0.2] – 2025-05-16
+
+### Added
+
+* `10_COMMITS.md` — Cypherpop’s ethic layer formally committed as 10 executable principles
+* `CYPHERPOP_PROTOCOL_PRIMER.md` — replaces legacy manifesto with a modular philosophy + methodology doc
+* `starter-kits/submit.md` — simple protocol-aligned guide for submitting track folders via pull request
+
+### Updated
+
+* `README.md` — revised repo overview to reflect the 10 Commits, the protocol primer, and improved artist onboarding
+
+### Notes
+
+This version marks a structural upgrade: separating values, methods, and onboarding into focused, forkable documents.
+
+It moves the protocol from declaration to documentation—without losing the rhythm.
+
+Cypherpop is now more readable, remixable, and ready for commits.
