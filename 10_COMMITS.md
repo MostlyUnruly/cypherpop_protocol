@@ -1,4 +1,4 @@
-# CYPHERPOP: 10 CORE PRINCIPLES
+# THE 10 COMMITS
 *The Protocol’s Ethic Layer / The 10 Commits / Cypherpop’s OS / Manifesto in Motion*
 
 ---
@@ -89,4 +89,4 @@ If GitHub disappears, if the blockchain forks, Cypherpop remains—because it's 
 
 **We don’t just sign smart contracts.**  
 **We sign our signals.**  
-**We commit to the chain that can’t be forked—principle over platform.**
+**We commit to the chain that can’t be forked; principle over platform.**
