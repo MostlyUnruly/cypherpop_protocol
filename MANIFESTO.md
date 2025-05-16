@@ -1,4 +1,4 @@
-# CYPHERPOP MANIFEST v0.1.5
+# CYPHERPOP MANIFESTO v0.1.5
 
 ## PREAMBLE
 In an age of surveillance, compression, and commodified creativity,  
