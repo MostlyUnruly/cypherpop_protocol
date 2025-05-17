@@ -12,7 +12,7 @@ This repository contains the living documentation, templates, submission logic, 
 | File / Folder              | Purpose                                                                 |
 |----------------------------|-------------------------------------------------------------------------|
 | `10_COMMITS.md`            | The protocol’s ethic layer — 10 executable principles that define Cypherpop |
-| `CYPHERPOP_PROTOCOL_PRIMER.md` | The philosophy, process, and structure behind the protocol             |
+| `PROTOCOL_PRIMER.md` | The philosophy, process, and structure behind the protocol             |
 | `whitepaper.md`            | Deep dive into genre mechanics, aesthetic logic, and cultural roots      |
 | `cyphernary.md`            | Living glossary of key terms, symbolic logic, and protocol slang         |
 | `CHANGELOG.md`             | Version history of the protocol and architecture                         |
@@ -92,7 +92,7 @@ It was created to:
 - Build a forkable music standard where each track is versionable, ownable, remixable
 
 > To understand the ethic layer, read [`10_COMMITS.md`](./10_COMMITS.md)  
-> To understand the methodology, read [`CYPHERPOP_PROTOCOL_PRIMER.md`](./CYPHERPOP_PROTOCOL_PRIMER.md)
+> To understand the methodology, read [`PROTOCOL_PRIMER.md`](./PROTOCOL_PRIMER.md)
 
 ---
 
