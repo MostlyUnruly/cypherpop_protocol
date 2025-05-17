@@ -44,7 +44,7 @@ While no breaking changes were made to metadata schema, this version formalizes 
 ### Added
 
 * `10_COMMITS.md` — Cypherpop’s ethic layer formally committed as 10 executable principles
-* `CYPHERPOP_PROTOCOL_PRIMER.md` — replaces legacy manifesto with a modular philosophy + methodology doc
+* `PROTOCOL_PRIMER.md` — replaces legacy manifesto with a modular philosophy + methodology doc
 * `starter-kits/submit.md` — simple protocol-aligned guide for submitting track folders via pull request
 
 ### Updated
